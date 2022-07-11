@@ -1,4 +1,4 @@
-export default function IndexPage() {
+export default function ProductsPage() {
   return <div>
     <p>Hello!</p>
   </div>
